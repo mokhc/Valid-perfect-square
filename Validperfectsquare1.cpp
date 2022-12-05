@@ -1,4 +1,4 @@
-//Program tests whether an integer is a perfect square (367).
+//Program tests whether an integer is a perfect square (Leetcode problem 367).
 //Program returns true if it is a perfect square and false otherwise.
 //Trivial - How do you obtain an increasing perfect square sequence?
 //header
